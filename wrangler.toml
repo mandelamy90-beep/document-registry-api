@@ -7,7 +7,7 @@ binding = "DB"
 database_id = "0bf3bbda-7b33-42c5-ab0d-4fe2a0adc423"
 
 [vars]
-APP_ORIGIN = "https://REPLACE_WITH_YOUR_PAGES_DOMAIN"
+APP_ORIGIN = "https://registry.dolphinnetwork.ie"
 ID_PREFIX = "DOC"
 OKTA_CLIENT_ID = "0oa19ddvaizgYhwtg698"
 OKTA_ISSUER = "https://okta.dolphinnetwork.ie/oauth2/default"
