@@ -4,7 +4,6 @@ compatibility_date = "2026-10-31"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "document-registry"
 database_id = "0bf3bbda-7b33-42c5-ab0d-4fe2a0adc423"
 
 [vars]
